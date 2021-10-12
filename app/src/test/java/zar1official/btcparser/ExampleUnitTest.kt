@@ -1,4 +1,4 @@
-package ru.zar1official.btcparser
+package zar1official.btcparser
 
 import org.junit.Test
 

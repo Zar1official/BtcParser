@@ -1,4 +1,4 @@
-package ru.zar1official.btcparser
+package zar1official.btcparser
 
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
@@ -7,7 +7,7 @@ import android.view.animation.AnimationUtils
 import com.google.android.material.snackbar.Snackbar
 import org.jsoup.Jsoup
 import org.jsoup.select.Elements
-import ru.zar1official.btcparser.databinding.ActivityMainBinding
+import zar1official.btcparser.databinding.ActivityMainBinding
 import java.io.IOException
 import kotlin.concurrent.thread
 
