@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="btcHeader">
+        <item name="android:textSize">20sp</item>
+        <item name="android:textColor">@color/black</item>
+        <item name="android:fontFamily">@font/header_font</item>
+    </style>
+
+    <style name="btcDescription">
+        <item name="android:textSize">12sp</item>
+        <item name="android:textColor">#8B8B8B</item>
+        <item name="android:fontFamily">sans-serif</item>
+    </style>
+
+    <style name="btcTextViewData">
+        <item name="android:textSize">14sp</item>
+        <item name="android:textColor">@color/black</item>
+        <item name="android:fontFamily">@font/description_font</item>
+        <item name="android:layout_width">match_parent</item>
+        <item name="android:layout_height">match_parent</item>
+        <item name="android:gravity">center</item>
+        <item name="android:text">@string/description_default</item>
+    </style>
+
+    <style name="btcCardView">
+        <item name="android:layout_width">90dp</item>
+        <item name="android:layout_height">75dp</item>
+        <item name="android:layout_marginTop">24dp</item>
+        <item name="cardCornerRadius">5dp</item>
+    </style>
+
+    <style name="AppTheme" parent="Theme.AppCompat.Light.NoActionBar">
+        <item name="colorPrimary">@color/custom_blue</item>
+        <item name="colorPrimaryDark">@color/custom_blue</item>
+        <item name="colorAccent">@color/custom_blue</item>
+    </style>
+
+</resources>

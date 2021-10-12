@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Курс биткоина</string>
+    <string name="name">Биткоин (BTC)</string>
+    <string name="update">Обновить</string>
+    <string name="product_description">Новое поколение децентрализованной цифровой валюты, созданной и работающей только в сети интернет.</string>
+    <string name="description_default">0.0</string>
+</resources>
